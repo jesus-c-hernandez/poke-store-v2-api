@@ -1,0 +1,9 @@
+{
+  "name": "poke-store-v2-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
